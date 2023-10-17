@@ -1,7 +1,7 @@
 # Barbearia Alura 
 
 Esse foi um projeto desenvolvido durante a primeira parte da Formação do Challenge Turma 5 Front-end da Alura junto com ONE(Oracle)! 
-O site contém as páginas de: <strong>três páginas da Web para simular o site de uma barbearia: HOME, PRODUTOS, CONTATOS</strong>
+O site contém as páginas de: <strong>três páginas da Web para simular o site de uma barbearia - HOME, PRODUTOS, CONTATOS</strong>
 
 ## HTML e CSS
 Este projeto foi desenvolvido durante o curso de HTML5 e CSS3. Os objetivos principais do projeto:
