@@ -50,7 +50,7 @@ No rodapé da página, utilizei CSS para adicionar uma foto de fundo e também c
   <li>Formulários;</li>
   <li>Navegação de páginas da Web;</li>
   <li>Estrutura do CSS: Transições, transformações, hierarquia, posicionamento dos elementos...</li>
-  <li> Ainda no CSS: Bordas, sombras, opacidades, backgrounds, psudo-classes e pseudo-elementos, reset.css</li>
+  <li> Ainda no CSS: Bordas, sombras, opacidades, backgrounds, pseudo-classes e pseudo-elementos, reset.css</li>
   <li>Media queries em dispositivos móveis que atualizam o layout</li>
   <li>Ferramentas do navegador *Chrome* para auxiliar na construção do site </li>
 </ul>
